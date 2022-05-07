@@ -25,3 +25,6 @@ title: About
   </tr>
 </table>
 
+<br>
+
+<center><img src="/assets/img/favicons/team.jpg"></center>
