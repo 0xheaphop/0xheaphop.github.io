@@ -4,7 +4,6 @@ title: About
 
     0xHeaphop is a cyber security team.
 
-<center><img src="/assets/img/favicons/team.jpg"></center>
 
 # Contact ( Ahmed Abdulhameed )
  <table>
